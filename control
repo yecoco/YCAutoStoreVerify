@@ -1,0 +1,9 @@
+Package: com.lotogram.verify
+Name: AppleIDVerify
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: yecc
+Author: yecc
+Section: Tweaks
